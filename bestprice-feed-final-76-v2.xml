@@ -2,18 +2,6 @@
 <store>
   <products>
     <product>
-      <productId>200030558</productId>
-      <title>Samsung HS130 In-ear Handsfree με Βύσμα 3.5mm Μαύρο</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/samsung-hs130-in-ear-handsfree-me-vysma-3-5mm-mayro/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006493-15adb15ade/EO-HS1303-BK-600x600.jpeg?ph=ec469302ca</imageURL>
-      <price>15</price>
-      <category_path>ΤΕΧΝΟΛΟΓΙΑ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Samsung</brand>
-      <mpn>200030558</mpn>
-      <stock>Y</stock>
-    </product>
-    <product>
       <productId>200030557</productId>
       <title>Pioneer Ακουστικά Ψείρες In Ear SE CL502 Μαύρα</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pioneer-akoystika-pseires-in-ear-se-cl502-mayra/</productURL>
@@ -30,7 +18,7 @@
       <title>Sencor STM 4460CH Κουζινομηχανή 1000W με Ανοξείδωτο Κάδο 4.5lt</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/sencor-stm-4460gg-koyzinomichani-1000w-me-anoxeidoto-kado-4-5lt1/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006479-7345773459/sencor-stm4467ch-κουζινομηχανή-1000w-με-ανοξείδωτο-κάδο-45lt-κωδικός-20912963.jpeg?ph=ec469302ca</imageURL>
-      <price>280</price>
+      <price>250</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΚΟΥΖΙΝΟΜΗΧΑΝΕΣ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Sencor</brand>
@@ -54,7 +42,7 @@
       <title>SENCOR SRD 215 WHITE</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/sencor-srd-215-white/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006457-ac44aac44b/1000000340.jpeg?ph=ec469302ca</imageURL>
-      <price>25</price>
+      <price>27</price>
       <category_path>ΤΕΧΝΟΛΟΓΙΑ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Sencor</brand>
@@ -396,19 +384,6 @@
       <stock>Y</stock>
     </product>
     <product>
-      <productId>200017766</productId>
-      <title>Ηλεκτρική Σκούπα Hoover RC60PET 011</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/ilektriki-skoypa-hoover-rc60pet-011/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006042-789a2789a5/20190828101523_hoover_rc60pet_011.jpeg?ph=ec469302ca</imageURL>
-      <price>85</price>
-      <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΗΛΕΚΤΡΙΚΕΣ ΣΚΟΥΠΕΣ &amp; ΣΚΟΥΠΑΚΙΑ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Hoover</brand>
-      <mpn>200017766</mpn>
-      <stock>Y</stock>
-      <description>Κωδικός Προιόντος: 170.125Διαθεσιμότητα: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕγγύηση Αντιπροσωπείας: 2 ΧΡΟΝΙΑ</description>
-    </product>
-    <product>
       <productId>200017765</productId>
       <title>Ηλεκτρική Σκούπα ETA Grande Animal 2223 90000</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/ilektriki-skoypa-eta-grande-animal-2223-90000/</productURL>
@@ -568,7 +543,7 @@
       <title>SENCOR SBU 7877CH AΥΤΟΜΑΤΟ ΜΠΛΕΝΤΕΡ ΚΕΝΟΥ ΑΕΡΟΣ (FA002571)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/sencor-sbu-7870gg-aytomato-mplenter-kenoy-aeros3/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006270-2f5bb2f5bd/102097065-9.jpeg?ph=ec469302ca</imageURL>
-      <price>165</price>
+      <price>145</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΜΠΛΕΝΤΕΡ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Sencor</brand>
@@ -581,7 +556,7 @@
       <title>SENCOR STM 7871GR ΚΟΥΖΙΝΟΜΗΧΑΝΗ ΣΕΙΡΑ METALIC ΠΡΑΣΙΝΟ (FA002829)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/sencor-stm-7870gg-koyzinomichani-seira-metalic/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006214-93b6a93b6d/sencor-metallic-stm-7871gr.jpeg?ph=ec469302ca</imageURL>
-      <price>370</price>
+      <price>260</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΚΟΥΖΙΝΟΜΗΧΑΝΕΣ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Sencor</brand>
@@ -659,7 +634,7 @@
       <title>SENCOR SCB 6150SS-EUE3 ΠΟΛΥΚΟΠΤΗΣ ΤΡΟΦΙΜΩΝ - MULTI ΜΕ ΓΥΑΛΙΝΟ ΔΟΧΕΙΟ (FA001913)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/sencor21/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006162-1b92d1b92f/xlarge_20200930110533_sencor_scb_6150ss_eue3-1.jpeg?ph=ec469302ca</imageURL>
-      <price>40</price>
+      <price>25</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΠΟΛΥΚΟΠΤΕΣ MULTI</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Sencor</brand>
@@ -789,7 +764,7 @@
       <title>PYRAMIS BI1000 ΚΑΦΕΤΕΡΙΑ ΦΙΛΤΡΟΥ (040002501)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-bi1000-kafeteria-filtroy-040002501-doro-kafe-filtroy/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000611-e59c1e6909/040002501.jpg?ph=ec469302ca</imageURL>
-      <price>29</price>
+      <price>20</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΚΑΦΕΤΙΕΡΕΣ -&gt; ΚΑΦΕΤΕΡΙΕΣ ΦΙΛΤΡΟΥ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
