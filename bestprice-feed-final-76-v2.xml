@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <store>
   <products>
     <product>
@@ -190,19 +190,6 @@
       <description>ΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 31.379ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ : 2 ΧΡΟΝΙΑ&amp;nbsp;</description>
     </product>
     <product>
-      <productId>200025927</productId>
-      <title>Xiaomi MI Smart Kettle Pro Βραστήρας BHR4198GL White</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/xiaomi-mi-smart-kettle-pro-bhr4198gl-white/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006345-f28eaf28ed/xiaomi-mi-smart-kettle-pro-bhr4198gl-white.jpeg?ph=ec469302ca</imageURL>
-      <price>55</price>
-      <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΒΡΑΣΤΗΡΕΣ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Xiaomi</brand>
-      <mpn>200025927</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: XIAOMIΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 31.246ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ</description>
-    </product>
-    <product>
       <productId>200025924</productId>
       <title>Gruppe Συσκευή για Αφρόγαλα MK5002-GS</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/gruppe-syskeyi-gia-afrogala-mk5002-gs/</productURL>
@@ -257,13 +244,13 @@
     <product>
       <productId>200024422</productId>
       <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B CARBON (079811011)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/nerochytis-pyramis-pyragranite-alazia-86x50-1-3-4b-carbon-079811811/</productURL>
+      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-carbon-079811011</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006302-e9cfbe9cfd/0004745_pyragranite-079811011-by-pyramis-alazia-79x50-2b_625.png?ph=ec469302ca</imageURL>
       <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200024422</mpn>
+      <mpn>079811011</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.058ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€&amp;nbsp;</description>
     </product>
@@ -282,14 +269,14 @@
     </product>
     <product>
       <productId>200022885</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B IRON GREY</title>
+      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B IRON GREY (070037611)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/nerochytis-pyramis-pyragranite-alazia-86x50-1-3-4b-iron-grey/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006212-c6771c6772/0010289_-pyramis-pyragranite-alazia-86x50-1-34b-iron-grey-070037611_600.jpeg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200022885</mpn>
+      <mpn>070037611</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.045ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€&amp;nbsp;&amp;nbsp;</description>
     </product>
@@ -299,10 +286,10 @@
       <productURL>https://dreamkemos-com0.webnode.gr/p/iron-grey-070037211/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006206-bff3bbff3c/fixedratio_20230802130012_pyramis_alazia_2b_enthetos_nerochytis_apo_synthetiko_graniti_m79xp50cm_iron_grey.jpeg?ph=ec469302ca</imageURL>
       <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200022870</mpn>
+      <mpn>070037211</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.069ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€&amp;nbsp;</description>
     </product>
@@ -312,23 +299,23 @@
       <productURL>https://dreamkemos-com0.webnode.gr/p/carbon-070070711/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006192-0355f03561/pyramis-pyragranite-athlos-plus-1b-1d-carbon-γρανιτένιος-αντιστρεφόμενος-ένθετος-νεροχύτης-με-1-γούρνα-και-ποδιά-86x50-cm.jpeg?ph=ec469302ca</imageURL>
       <price>200</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200022851</mpn>
+      <mpn>070070711</mpn>
       <stock>Y</stock>
       <description>&amp;nbsp;ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.046ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€&amp;nbsp;</description>
     </product>
     <product>
       <productId>200022844</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B CARBON</title>
+      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B CARBON (079811811)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-1-3-4b-carbon/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006200-582f3582f4/C079811811-650x650.jpeg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200022844</mpn>
+      <mpn>079811811</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.039ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€&amp;nbsp;</description>
     </product>
@@ -347,27 +334,27 @@
     </product>
     <product>
       <productId>200019023</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B SNOW</title>
+      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B SNOW (079811711)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-1-3-4b-snow/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006068-9e4369e439/fixedratio_20211104111947_pyramis_alazia_1_3_4b_enthetos_nerochytis_86x50cm_snow.jpeg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200019023</mpn>
+      <mpn>079811711</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.039ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
     </product>
     <product>
       <productId>200019016</productId>
-      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B SNOW</title>
+      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B SNOW (070071211)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-athlos-86x50-2b-snow/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006062-78ce178ce4/070071211-2.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200019016</mpn>
+      <mpn>070071211</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
     </product>
@@ -423,53 +410,53 @@
     </product>
     <product>
       <productId>200017762</productId>
-      <title>PYRAMIS PYRAGRANITE ISTROS (76x50) 1B SNOW</title>
+      <title>PYRAMIS PYRAGRANITE ISTROS (76x50) 1B SNOW (070045511)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-istros-76x50-1b-snow/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006052-de67cde67f/fixedratio_20220316162528_pyramis_istros_1b_enthetos_nerochytis_76x50cm_snow-4.jpeg?ph=ec469302ca</imageURL>
-      <price>270</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ</category_path>
+      <price>260</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200017762</mpn>
+      <mpn>070045511</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.028ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
     </product>
     <product>
       <productId>200017131</productId>
-      <title>PYRAMIS PYRAGRANITE ISTROS (76x50) 1B CARBON</title>
+      <title>PYRAMIS PYRAGRANITE ISTROS (76x50) 1B CARBON (070045611)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-istros-76x50-1b-carbon/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200005972-0175001753/fixedratio_20211104112139_pyramis_istros_1b_enthetos_nerochytis_76x50cm_carbon.jpeg?ph=ec469302ca</imageURL>
-      <price>270</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>260</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200017131</mpn>
+      <mpn>070045611</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.021ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
     </product>
     <product>
       <productId>200017115</productId>
-      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B BEIGE</title>
+      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B BEIGE (070071411)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/kataskeyastis-pyramis-kodikos-proiontos-25-029-diathesimotita-amesa-diathesimo-eggyisi-antiprosopeias-ef-oroy-zois-dorean-metaforika-me-diko-mas-meso-mono-entos-athinon-kai-peiraia-gia-paraggelies-ano-ton-250eur/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200005950-8282d82830/070071411.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200017115</mpn>
+      <mpn>070071411</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.031ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά  με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
     </product>
     <product>
       <productId>200017114</productId>
-      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B IRON GREY</title>
+      <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B IRON GREY (070071711)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-athlos-86x50-2b-iron-grey/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200005954-170bb170be/070071711.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200017114</mpn>
+      <mpn>070071711</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.030ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά  με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
     </product>
@@ -478,52 +465,13 @@
       <title>PYRAMIS PYRAGRANITE ATHLOS (86x50) 2B CARBON (070071311)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-athlos-86x50-2b-carbon/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200005958-e5823e5826/fixedratio_20210621153056_pyramis_athlos_2b_enthetos_nerochytis_86x50cm_iron_grey.jpeg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ</category_path>
+      <price>230</price>
+      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200017111</mpn>
+      <mpn>070071311</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.029ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά  με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ  για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200014665-200004856</productId>
-      <title>OEM DH20 Καρέκλα Σκηνοθέτη Εκρού</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/karekla-skinotheti-dh20-ekroy</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200004927-c3eb2c3eb4/ΚΑΡΕΚΛΑ%20ΣΚΗΝΟΘΕΤΗ%20ΜΠΟΡΝΤΩ.jpg?ph=ec469302ca</imageURL>
-      <price>50</price>
-      <category_path>ΕΠΙΠΛΑ ΚΗΠΟΥ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>OEM</brand>
-      <mpn>200014665-200004856</mpn>
-      <stock>Y</stock>
-      <description>ΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 300.025ΔΙΑΘΕΣΙΜΟΤΗΤΑ: 2-3 ΗΜΕΡΕΣ</description>
-    </product>
-    <product>
-      <productId>200014665-200004857</productId>
-      <title>OEM DH20 Καρέκλα Σκηνοθέτη Μπορντώ</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/karekla-skinotheti-dh20-mpornto</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200004927-c3eb2c3eb4/ΚΑΡΕΚΛΑ%20ΣΚΗΝΟΘΕΤΗ%20ΜΠΟΡΝΤΩ.jpg?ph=ec469302ca</imageURL>
-      <price>50</price>
-      <category_path>ΕΠΙΠΛΑ ΚΗΠΟΥ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>OEM</brand>
-      <mpn>200014665-200004857</mpn>
-      <stock>Y</stock>
-      <description>ΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 300.025ΔΙΑΘΕΣΙΜΟΤΗΤΑ: 2-3 ΗΜΕΡΕΣ</description>
-    </product>
-    <product>
-      <productId>200014665-200004858</productId>
-      <title>OEM DH20 Καρέκλα Σκηνοθέτη Μαύρο</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/karekla-skinotheti-dh20-mayro</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200004927-c3eb2c3eb4/ΚΑΡΕΚΛΑ%20ΣΚΗΝΟΘΕΤΗ%20ΜΠΟΡΝΤΩ.jpg?ph=ec469302ca</imageURL>
-      <price>50</price>
-      <category_path>ΕΠΙΠΛΑ ΚΗΠΟΥ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>OEM</brand>
-      <mpn>200014665-200004858</mpn>
-      <stock>Y</stock>
-      <description>ΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 300.025ΔΙΑΘΕΣΙΜΟΤΗΤΑ: 2-3 ΗΜΕΡΕΣ</description>
     </product>
     <product>
       <productId>200012712</productId>
@@ -647,7 +595,7 @@
       <title>ΑΤΜΟΜΑΓΕΙΡΑΣ RUSSELL HOBBS 19270-56</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/russell-hobbs-19270-56-atmomageiras/</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200006232-d11fed1200/xlarge_20200213164326_russell_hobbs_19270.jpeg?ph=ec469302ca</imageURL>
-      <price>40</price>
+      <price>45</price>
       <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΑΤΜΟΜΑΓΕΙΡΕΣ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Russell Hobbs</brand>
@@ -734,19 +682,6 @@
       <description>Κωδικός Προιόντος:&amp;nbsp;90.032Διαθεσιμότητα:&amp;nbsp;ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;Εγγύηση Αντιπροσωπείας: 2 ΧΡΟΝΙΑ</description>
     </product>
     <product>
-      <productId>200002192</productId>
-      <title>ARIETE 0618/05 ΦΡΑΠΕΔΙΕΡΑ FRU MILKSHAKER CREAM/BLUE (78367)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/ariete-0618-04-frapediera-fru-milkshaker-cream-green-78366/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000761-9e4d09f481/618-20celeste-20princ-20bianco-400x400.jpg?ph=ec469302ca</imageURL>
-      <price>30</price>
-      <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΦΡΑΠΙΕΡΕΣ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Ariete</brand>
-      <mpn>200002192</mpn>
-      <stock>Y</stock>
-      <description>Κωδικός Προιόντος: 105.027Διαθεσιμότητα:&amp;nbsp;ΑΜΕΣΑ ΔΙΑΘΈΣΙΜΟ&amp;nbsp;Εγγύηση Αντιπροσωπείας: 2 ΧΡΟΝΙΑ</description>
-    </product>
-    <product>
       <productId>200002173</productId>
       <title>Russell Hobbs Desire 3 in 1 Hand Blender 24700-56</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/rh-24700-56-ravdomplenter-desire-3-in-1-hand-blender-810412/</productURL>
@@ -758,19 +693,6 @@
       <mpn>200002173</mpn>
       <stock>Y</stock>
       <description>Κωδικός Προϊόντος: 100.028Διαθεσιμότητα: ΆΜΕΣΑ ΔΙΑΘΈΣΙΜΟ&amp;nbsp;Εγγύηση Αντιπροσωπείας: 2 ΧΡΟΝΙΑ</description>
-    </product>
-    <product>
-      <productId>200000859</productId>
-      <title>PYRAMIS BI1000 ΚΑΦΕΤΕΡΙΑ ΦΙΛΤΡΟΥ (040002501)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-bi1000-kafeteria-filtroy-040002501-doro-kafe-filtroy/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000611-e59c1e6909/040002501.jpg?ph=ec469302ca</imageURL>
-      <price>20</price>
-      <category_path>ΜΙΚΡΟΣΥΣΚΕΥΕΣ -&gt; ΚΑΦΕΤΙΕΡΕΣ -&gt; ΚΑΦΕΤΕΡΙΕΣ ΦΙΛΤΡΟΥ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000859</mpn>
-      <stock>Y</stock>
-      <description>Κωδικός Προϊόντος: 65.034Διαθεσιμότητα:&amp;nbsp;ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;Εγγύηση Αντιπροσωπείας: 2 ΧΡΟΝΙΑ</description>
     </product>
     <product>
       <productId>200000686</productId>
@@ -799,160 +721,17 @@
       <description>ΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 50.035ΔΙΑΘΕΣΙΜΟΤΗΤΑ:ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: 2 ΧΡΟΝΙΑ</description>
     </product>
     <product>
-      <productId>200000232</productId>
-      <title>PYRAMIS PYRAGRANITE ISTROS (76x50) 1B CARBON (070045511)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-istros-76x50-1b/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200005962-ea336ea339/fixedratio_20220316162528_pyramis_istros_1b_enthetos_nerochytis_76x50cm_snow.jpeg?ph=ec469302ca</imageURL>
-      <price>270</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000232</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ: PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.020ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp;ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά  με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ&amp;nbsp; για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000086</productId>
-      <title>PYRAMIS PYRAGRANITE ATHLOS PLUS (86x50) 1B 1D (070070611)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-athlos-86x50-1b-1d/</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000068-1b1631c196/PYRAMIS%20PYRAGANITE%20ATLOS%20%2886x50%29%201B%201D.jpg?ph=ec469302ca</imageURL>
-      <price>200</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000086</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.029ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp;ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣ</description>
-    </product>
-    <product>
-      <productId>200000060-200005292</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B BEIGE (079811911) , ΧΡΩΜΑ: SNOW (079811711)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-snow-079811711</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000039-20f1e21f05/ALAZIA%20%2886X50%29%201%203.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000060-200005292</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.037ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ&amp;nbsp; για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000060-200005293</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B BEIGE (079811911) , ΧΡΩΜΑ: CARBON (079811811)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-carbon-079811811</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000039-20f1e21f05/ALAZIA%20%2886X50%29%201%203.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000060-200005293</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.037ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ&amp;nbsp; για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
       <productId>200000060-200005294</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B BEIGE (079811911) , ΧΡΩΜΑ: BEIGE (079811911)</title>
+      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B BEIGE (079811911)</title>
       <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-beige-079811911</productURL>
       <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000039-20f1e21f05/ALAZIA%20%2886X50%29%201%203.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
+      <price>230</price>
       <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
       <availability>Σε απόθεμα</availability>
       <brand>Pyramis</brand>
-      <mpn>200000060-200005294</mpn>
+      <mpn>079811911</mpn>
       <stock>Y</stock>
       <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.037ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ&amp;nbsp; για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000060-200005295</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (86x50) 1 3/4B BEIGE (079811911) , ΧΡΩΜΑ: IRON GREY (070037611)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-86x50-iron-grey-070037611</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000039-20f1e21f05/ALAZIA%20%2886X50%29%201%203.jpg?ph=ec469302ca</imageURL>
-      <price>235</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000060-200005295</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.037ΔΙΑΘΕΣΙΜΟΤΗΤΑ: ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ&amp;nbsp; για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000060</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: SNOW (079810911)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-snow-079810911</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000060</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000061</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: CARBON (079811011)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-carbon-079811011</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000061</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000062</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: BEIGE (079811111)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-beige-079811111</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000062</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000063</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: MOCHA (079811211)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-mocha-079811211</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000063</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000064</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: CHOCOLATE (070037111)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-chocolate-070037111</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000064</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
-    </product>
-    <product>
-      <productId>200000059-200000065</productId>
-      <title>PYRAMIS PYRAGRANITE ALAZIA (79x50) 2B BEIGE, ΧΡΩΜΑ: IRON GREY (070037211)</title>
-      <productURL>https://dreamkemos-com0.webnode.gr/p/pyramis-pyragranite-alazia-79x50-2b-iron-grey-070037211</productURL>
-      <imageURL>https://ec469302ca.clvaw-cdnwnd.com/1d319763f7792179427582f978cb3b42/200000038-20f6d21f62/ALAZIA%20%2879x50%29%202B.jpg?ph=ec469302ca</imageURL>
-      <price>210</price>
-      <category_path>ΓΡΑΝΙΤΕΝΙΟΙ/ΣΥΝΘΕΤΙΚΟΙ -&gt; ΓΡΑΝΙΤΕΝΙΟΙ</category_path>
-      <availability>Σε απόθεμα</availability>
-      <brand>Pyramis</brand>
-      <mpn>200000059-200000065</mpn>
-      <stock>Y</stock>
-      <description>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:&amp;nbsp;PYRAMISΚΩΔΙΚΟΣ ΠΡΟΙΟΝΤΟΣ: 25.038ΔΙΑΘΕΣΙΜΟΤΗΤΑ:&amp;nbsp; ΆΜΕΣΑ ΔΙΑΘΕΣΙΜΟ&amp;nbsp;ΕΓΓΥΗΣΗ ΑΝΤΙΠΡΟΣΩΠΕΙΑΣ: ΕΦ ΟΡΟΥ ΖΩΗΣΔωρεάν μεταφορικά με δικό μας μέσο ΜΟΝΟ ΕΝΤΟΣ ΑΘΗΝΩΝ και ΠΕΙΡΑΙΑ για παραγγελίες άνω των 250€</description>
     </product>
   </products>
 </store>
